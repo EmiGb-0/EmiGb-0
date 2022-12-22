@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 | **Languages** | **Frameworks/libraries** |
 | :---: | :--: |
-| ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![ReactJs](https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.Js](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+| ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![ReactJs](https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.Js](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 | **Technologies** |
 | :---: |
