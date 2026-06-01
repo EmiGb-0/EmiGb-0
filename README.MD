@@ -13,7 +13,7 @@ Building digital products, automations and scalable platforms that solve real bu
 <p align="center">
 <a href="https://blimboo.net">Website</a> •
 <a href="mailto:emigb.tv@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/emiliano-gonzalez">LinkedIn</a>
+<a href="https://linkedin.com/in/emigb">LinkedIn</a>
 </p>
 
 ---
